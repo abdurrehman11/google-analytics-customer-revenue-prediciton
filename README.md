@@ -11,7 +11,7 @@ Analyze a Google Merchandise Store (also known as GStore, where Google swag is s
 ### Install the requirements
 
 * Make sure to use Python 3 and Jupyter Notebook.
-* Install the requirements using `pip install package_name` in Anaconda prompt or `!pip install package_name` in Jupyter Notebook cell.
+* Install all packages in requirements.txt using `pip install package_name` in Anaconda prompt or `!pip install package_name` in Jupyter Notebook cell.
 
 ### Usage
 
