@@ -1,3 +1,0 @@
-[lfs]
-	keepalive = 1440
-	activitytimeout = 500
