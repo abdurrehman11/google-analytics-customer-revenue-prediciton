@@ -16,11 +16,11 @@ Analyze a Google Merchandise Store (also known as GStore, where Google swag is s
 ### Usage
 
 * Open `Anaconda Prompt`.
-* Type `jupyter notebook` in Anaconda Prompt. This will open up Jupyter Notebook in your browser at    http://localhost:8888/tree#notebooks.
+* Type `jupyter notebook` in Anaconda Prompt. This will open up Jupyter Notebook in your browser at    `http://localhost:8888/tree#notebooks`.
 * Upload notebook from your clone repo in Jupyter Notebook by using `upload` button.
 * Open that notebook.
 * To run individual cell, goto that cell and type `Ctrl + Enter`.
-* To run all cells simultaneously, goto Cell -> Run All.
+* To run all cells simultaneously, goto `Cell -> Run All`.
 
 ### Extending this
 
