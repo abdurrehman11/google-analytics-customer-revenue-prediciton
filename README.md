@@ -13,7 +13,7 @@ Analyze a Google Merchandise Store (also known as GStore, where Google swag is s
 * Make sure to use Python 3 and Jupyter Notebook.
 * Install all packages in requirements.txt using `pip install package_name` in Anaconda prompt or `!pip install package_name` in Jupyter Notebook cell.
 
-### Usage
+# Usage
 
 * Open `Anaconda Prompt`.
 * Type `jupyter notebook` in Anaconda Prompt. This will open up Jupyter Notebook in your browser at    `http://localhost:8888/tree#notebooks`.
@@ -22,7 +22,7 @@ Analyze a Google Merchandise Store (also known as GStore, where Google swag is s
 * To run individual cell, goto that cell and type `Ctrl + Enter`.
 * To run all cells simultaneously, goto `Cell -> Run All`.
 
-### Extending this
+# Extending this
 
 If you want to extend this work, here are a few places to start:
 
